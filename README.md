@@ -1,0 +1,1 @@
+This repository contains a Python function designed to calculate the average of a list of numbers.  The original function lacked robust error handling for non-numeric inputs. The improved version addresses this by incorporating error handling, preventing `TypeError` exceptions. This is a demonstration of defensive programming techniques in Python.
